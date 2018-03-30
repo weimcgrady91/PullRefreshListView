@@ -70,6 +70,7 @@ public class PullRefreshListView extends ListView {
     }
 
 
+    
     private void closeHeaderView(STATE state) {
         int endValue;
         if (state == STATE.READY) {

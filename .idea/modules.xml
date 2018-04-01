@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PullRefreshListView.iml" filepath="$PROJECT_DIR$/PullRefreshListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PullRefreshListView-sample/app.iml" filepath="$PROJECT_DIR$/PullRefreshListView-sample/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullRefreshListView-sample/PullRefreshListView-sample.iml" filepath="$PROJECT_DIR$/PullRefreshListView-sample/PullRefreshListView-sample.iml" />
+      <module fileurl="file://E:\all_ws\as_ws\PullRefreshListView\PullRefreshListView-sample\app.iml" filepath="E:\all_ws\as_ws\PullRefreshListView\PullRefreshListView-sample\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/pullrefreshlistview/pullrefreshlistview.iml" filepath="$PROJECT_DIR$/pullrefreshlistview/pullrefreshlistview.iml" />
     </modules>
   </component>

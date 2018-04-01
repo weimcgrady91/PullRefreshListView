@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PullRefreshListView</string>
+    <string name="release_to_refresh">释放刷新</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="refreshing">正在刷新</string>
+    <string name="refresh_finish">刷新完成</string>
+    <string name="last_refresh_time">上次刷新时间:%1$s</string>
+    <string name="no_more_data">没有更多数据了</string>
+    <string name="load_more_data">加载更多</string>
 </resources>
